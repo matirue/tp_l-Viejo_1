@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1523048852 source:/home/linux-ubuntu/Escritorio/Mat/TP_1_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1523046343 /home/linux-ubuntu/Escritorio/Mat/TP_1_Cascara/funciones.h
+
+1523049598 source:/home/linux-ubuntu/Escritorio/Mat/TP_1_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
