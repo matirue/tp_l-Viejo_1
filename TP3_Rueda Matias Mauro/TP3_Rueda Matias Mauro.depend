@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1527902916 source:c:\users\matias.r\desktop\tp3_rueda matias mauro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1527902916 c:\users\matias.r\desktop\tp3_rueda matias mauro\funciones.h
+
+1527903053 source:c:\users\matias.r\desktop\tp3_rueda matias mauro\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
